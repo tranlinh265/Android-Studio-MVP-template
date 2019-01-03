@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout
+<android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -11,4 +11,4 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context="${relativePackage}.${activityClass}">
 
-</FrameLayout>
+</android.support.constraint.ConstraintLayout>
